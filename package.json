@@ -1,0 +1,43 @@
+{
+  "name": "angular-webpack-starter",
+  "version": "0.0.0",
+  "description": "Seed project to start ES6, Angular 1.4, ngNewRouter, and Webpack, WebPack Dev Server, & NodeJS",
+  "repository": "",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/.bin/webpack-dev-server --content-base www"
+  },
+  "author": "Justin Winthers",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.3",
+    "angular-new-router": "^0.5.3",
+    "angular-route": "^1.4.3",
+    "body-parser": "^1.13.2",
+    "bootstrap": "^3.3.5",
+    "compression": "^1.5.1",
+    "express": "^4.13.1",
+    "jquery": "^2.1.4",
+    "morgan": "^1.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^5.8.14",
+    "babel-loader": "^5.3.2",
+    "bootstrap": "^3.3.5",
+    "bootstrap-webpack": "0.0.3",
+    "css-loader": "^0.15.6",
+    "file-loader": "^0.8.4",
+    "gulp": "^3.9.0",
+    "i": "^0.3.3",
+    "imports-loader": "^0.6.4",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.12.3",
+    "stylus-loader": "^1.2.1",
+    "url-loader": "^0.5.6",
+    "webpack": "^1.10.5",
+    "webpack-dev-server": "^1.10.1"
+  }
+}
