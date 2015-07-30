@@ -41,6 +41,14 @@ npm install
 npm start
 ```
 
+5.)  Navigate to http://localhost:8080/#/
+
+
+## For deployments
+
+Type ```webpack``` on the command line to build the bundle.js as the WebPack Dev Server deploys only an in memory
+copy of bundle.js that satisfies get requests when running the server.
+
 ## Authors
 
 **Justin Winthers**
