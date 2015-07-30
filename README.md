@@ -3,7 +3,7 @@
 # Angular WebPack Starter
 Seed project to start ES6, Angular 1.4, ngNewRouter, and Webpack, WebPack Dev Server, & NodeJS
 
-**You can view the live example here:  [View Live Example](http://angular-webpack-starter.herokuapp.com)***
+**You can view the live example here:  [View Live Example](http://angular-webpack-starter.herokuapp.com)**
 
 
 How can I install it?
@@ -24,7 +24,16 @@ npm install -i -g webpack
 ```
 
 
-3.) start the webpack dev server
+3.) install all of the node dependencies
+
+**From the command line type:**
+
+```
+npm install
+```
+
+
+4.) start the webpack dev server
 
 **Run the server from the command line by typing:**
 
