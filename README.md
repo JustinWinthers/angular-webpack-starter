@@ -17,7 +17,7 @@ How can I install it?
 
 2.) Install WebPack globally so you can run the WebPack Dev Server commands
 
-**You'll want to install webpack globally on your system
+**You'll want to install webpack globally on your system**
 
 ```
 npm install -i -g webpack
@@ -26,7 +26,7 @@ npm install -i -g webpack
 
 3.) start the webpack dev server
 
-**Run the server from the command line by typing:
+**Run the server from the command line by typing:**
 
 ```
 npm start
